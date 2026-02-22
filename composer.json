@@ -13,6 +13,11 @@
             "email": "carsten@carstenwindler.de",
             "homepage": "http://carstenwindler.de",
             "role": "Contributor"
+        },
+        {
+            "name": "Pavel Kookooshkin",
+            "email": "kykint@mail.ru",
+            "role": "Contributor"
         }
     ],
     "minimum-stability": "dev",
