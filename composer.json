@@ -1,6 +1,6 @@
 {
-    "name": "peppeocchi/php-cron-scheduler",
-    "description": "PHP Cron Job Scheduler",
+    "name": "kykint/php-cron-scheduler",
+    "description": "PHP Cron Job Scheduler fork with support php 8.4",
     "license": "MIT",
     "keywords": ["cron job", "scheduler"],
     "authors": [
