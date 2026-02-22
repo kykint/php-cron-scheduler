@@ -6,6 +6,9 @@ PHP Cron Scheduler
 This is a framework agnostic cron jobs scheduler that can be easily integrated with your project or run as a standalone command scheduler.
 The idea was originally inspired by the [Laravel Task Scheduling](http://laravel.com/docs/5.1/scheduling).
 
+## About this fork
+Fixed [compatibility with PHP 8.4](https://github.com/peppeocchi/php-cron-scheduler/pull/158) and fixed [High CPU usage](https://github.com/peppeocchi/php-cron-scheduler/pull/156)
+
 ## Installing via Composer
 The recommended way is to install the php-cron-scheduler is through [Composer](https://getcomposer.org/).
 Please refer to [Getting Started](https://getcomposer.org/doc/00-intro.md) on how to download and install Composer.
